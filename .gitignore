@@ -4,3 +4,9 @@ dataset
 *.pkl
 .idea
 .DS_Store
+*.txt
+__pycache__
+!model-20171214-121501-representations.pkl
+!model-20171214-121501.h5
+!model-20171214-121501-0.770.txt
+glove
